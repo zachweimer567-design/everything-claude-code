@@ -40,5 +40,11 @@
         "best-practices"
       ]
     }
-  ]
+  ],
+  "marketplace": {
+    "add": "affaan-m/everything-claude-code"
+  },
+  "install": {
+    "everything-claude-code": "everything-claude-code"
+  }
 }
